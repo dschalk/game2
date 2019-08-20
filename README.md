@@ -1,2 +1,1 @@
-# game2
-The game that was part of functional-javascript
+The README is the online demo at [http://schalk.site](http://schalk.site)
